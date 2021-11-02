@@ -1,0 +1,19 @@
+{
+    "weatherCards":[
+        {
+            "city":"Barranquilla",
+            "temp":"25",
+            "tempType":"C"
+        },
+        {
+            "city":"Medellin",
+            "temp":"17",
+            "tempType":"C"
+        },
+        {
+            "city":"Bogota",
+            "temp":"10",
+            "tempType":"C"
+        }
+    ]
+}

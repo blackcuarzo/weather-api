@@ -1,0 +1,16 @@
+{
+    "weatherData" : [
+        {
+            "cityName" : "City 1",
+            "temperature" : "15"
+        },
+        {
+            "cityName" : "City 2",
+            "temperature" : "20"
+        },
+        {
+            "cityName" : "City 3",
+            "temperature" : "30"
+        }
+    ]
+}
